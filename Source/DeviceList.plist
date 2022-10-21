@@ -793,6 +793,34 @@
 		<key>version</key>
 		<real>14.5</real>
 	</dict>
+	<key>iPhone15,1</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 14</string>
+		<key>version</key>
+		<real>15.1</real>
+	</dict>
+	<key>iPhone15,2</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 14 Plus</string>
+		<key>version</key>
+		<real>15.199999999999999</real>
+	</dict>
+	<key>iPhone15,3</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 14 Pro</string>
+		<key>version</key>
+		<real>15.300000000000001</real>
+	</dict>
+	<key>iPhone15,4</key>
+	<dict>
+		<key>name</key>
+		<string>iPhone 14 Pro Max</string>
+		<key>version</key>
+		<real>15.4</real>
+	</dict>
 	<key>iPhone2,1</key>
 	<dict>
 		<key>name</key>
